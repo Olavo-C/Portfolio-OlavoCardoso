@@ -1,1 +1,1 @@
-Primeiro exercicio usando git
+Primeiro exercicio usando Git
